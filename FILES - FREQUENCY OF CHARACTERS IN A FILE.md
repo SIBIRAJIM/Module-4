@@ -26,6 +26,8 @@ To write a Python program that reads a file and counts the frequency of each cha
 ### PROGRAM
 
 ```
+
+
 # Reg.No-212223050048
 # Name-SIBIRAJI M
 # Write your code here
@@ -43,6 +45,8 @@ def char_frequency(file_path):
             for char in line:
                 char_count[char]+=1
     return char_count
+
+
 ```
 
 
